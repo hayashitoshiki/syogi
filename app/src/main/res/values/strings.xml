@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">syogi</string>
+
+    <style name="AppTheme.FullScreen" parent="Theme.AppCompat.Light.NoActionBar" />
+</resources>
